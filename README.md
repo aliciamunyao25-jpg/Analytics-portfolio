@@ -28,6 +28,12 @@ I enjoy solving business problems using data through cleaning, visualization, da
 ### Statistics
 - Descriptive Statistics
 
+### Data Visualization
+
+- Matplotlib
+- Power BI
+- Excel
+
 ---
 
 # 📁 Projects
@@ -39,6 +45,10 @@ I enjoy solving business problems using data through cleaning, visualization, da
 Analyzing financial data to provide insights and recommendations for improving budget performance and identifying cost-saving opportunities. My goal was to track revenue, expenses, and profits across different product categories and regions using the financial dataset and with the insights derived from my analysis i was able inform decision-making and strategic planning for future budgeting for the cumulative project.
 
 ### Dataset
+
+This dataset was created for educational purposes to provide insights and recommendations for improving budget performance and identifying cost-saving opportunities. It includes sales, region, product categories, and expenses .
+
+
 After cleaning the data set this was the income statement collected
 
 Item                                                    Amount($)
@@ -114,6 +124,9 @@ Total expenses                                    101,828,013.00
 - What product category, subcategories and product name were most and least bought according to region and state?
 
 ### Dataset
+
+This dataset was created for educational purposes to  derive actionable insights from sales data, enabling improved revenue growth , operational efficiency, and strategic decision-making.. It includes region, profits, product categories, product sub categories, transaction, and sales.
+
 - The dataset was cleaned and below was the income statments used to derive analysis from
  Item                                                    Amount($)
 Total Sales                                        $ 1.03Bn

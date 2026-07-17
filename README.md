@@ -33,6 +33,7 @@ I enjoy solving business problems using data through cleaning, visualization, da
 - Matplotlib
 - Power BI
 - Excel
+- Tableau
 
 ---
 

@@ -6,6 +6,9 @@ Hello! I'm **Alicia Mbithe Munyao**, a Data Analytics and Data Science and machi
 
 I enjoy solving business problems using data through cleaning, visualization, dashboard development, and statistical analysis. My goal is to help organizations make informed, data-driven decisions.
 
+Data Science while specializing in Data Science at Moringa School.
+
+I enjoy extracting insights from complex datasets using statistics, programming, and predictive analytics to solve real-world problems.
 ---
 
 ## Technical Skills
@@ -264,8 +267,8 @@ Bottom line: None of the models: regression, regularized, or classification foun
 
 ## Contact
 
-📧 Email:aliciamunyao25@gmail.com
+📧 Email: aliciamunyao25@gmail.com
 
-💼 LinkedIn:https://www.linkedin.com/in/alicia-munyao-3abb27369
+💼 LinkedIn: https://www.linkedin.com/in/alicia-munyao-3abb27369
 
-🌐 Portfolio:https:
+🌐 Portfolio: https://github.com/aliciamunyao25-jpg/Analytics-portfolio
